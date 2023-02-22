@@ -17,7 +17,8 @@ Mon images were sourced primarily from a site in web.archive. The original site 
 ### Post processing:
 After collecting files in gif and jpg with both white and transparent backgrounds and sizes. 
 
-The files have all been reprocessed to be more consistent
+The files have all been reprocessed to be more consistent.
+
 Images were centered and placed on a white background with a fixed size of 224x224 and saved as jpg.
 
 6425 images 224x224
